@@ -4,5 +4,5 @@ If you haven't already, be sure to take a look at the [CONTRIBUTING](https://git
 
 When you're ready, switch to the "Preview" tab to select an applicable template:
 
-- [General template (most common)](?template=general.md)
-- [Wallet integration template](?template=wallet-integration.md)
+- [General template (most common)](?expand=1&template=general.md)
+- [Wallet integration template](?expand=1&template=wallet-integration.md)
